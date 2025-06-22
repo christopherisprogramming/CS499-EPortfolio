@@ -35,4 +35,4 @@ This repository contains my ePortfolio for the CS-499 Computer Science Capstone 
 
 ## Professional Self-Assessment
 
-(Link to be added)
+[Download SelfAssessment.docx](https://github.com/christopherisprogramming/CS499-EPortfolio/blob/main/artifacts/SelfAssessment.docx)
