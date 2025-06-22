@@ -31,7 +31,7 @@ This repository contains my ePortfolio for the CS-499 Computer Science Capstone 
 
 ## Code Review Video
 
-(Link to be added)
+(https://youtu.be/G2wCu13Q8xA)
 
 ## Professional Self-Assessment
 
